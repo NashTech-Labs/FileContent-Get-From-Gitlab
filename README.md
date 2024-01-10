@@ -17,6 +17,9 @@ Before running the script, make sure you have the following:
  
    ```bash
    git clone <repository-url>
-2. Run file:
+2. Change directory:
+   ```bash
+   cd <directory-name>
+3. Run file:
    ```bash
    python <file-name>.py
